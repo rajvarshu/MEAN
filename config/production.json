@@ -1,0 +1,6 @@
+{
+    "name": "Default",
+    "mongoDB": {
+        "host": "prod host"
+    }
+}

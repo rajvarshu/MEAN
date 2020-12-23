@@ -1,0 +1,7 @@
+{
+    "name": "Default",
+    "mongoDB": {
+        "host": "dev host",
+        "pwd": "xyz"
+    }
+}
